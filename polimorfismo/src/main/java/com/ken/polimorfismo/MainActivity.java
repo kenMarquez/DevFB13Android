@@ -1,16 +1,13 @@
-package com.ken.devfb13;
+package com.ken.polimorfismo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import com.ken.polimorfismo.models.Charizard;
+import com.ken.polimorfismo.models.Pikachu;
+import com.ken.polimorfismo.models.Pokemon;
 
 public class MainActivity extends AppCompatActivity {
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,11 +17,9 @@ public class MainActivity extends AppCompatActivity {
         Charizard charizard = new Charizard("chari", "fuego/volador");
         Pikachu pikachu = new Pikachu("pikachu", "electrico");
 
-//        ataquePokemon(charizard);
+        ataquePokemon(charizard);
         ataquePokemon(pikachu);
-
     }
-
 
     public void ataquePokemon(Pokemon pokemon) {
 
@@ -36,7 +31,4 @@ public class MainActivity extends AppCompatActivity {
             charizard.vuela();
         }
     }
-
-
-
 }
