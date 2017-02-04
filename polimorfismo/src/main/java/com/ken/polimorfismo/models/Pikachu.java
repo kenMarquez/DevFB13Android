@@ -15,7 +15,7 @@ public class Pikachu extends Pokemon {
     }
 
     public void impactrueno() {
-        Log.d("log", "pikachu lanza impactrueno");
+        Log.d("myLog", "pikachu lanza impactrueno");
     }
 
 

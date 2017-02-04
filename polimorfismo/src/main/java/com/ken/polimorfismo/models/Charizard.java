@@ -14,6 +14,6 @@ public class Charizard extends Pokemon {
     }
 
     public void vuela() {
-        Log.d("log", "Charizard esta volando");
+        Log.d("myLog", "Charizard esta volando");
     }
 }

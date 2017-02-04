@@ -1,5 +1,6 @@
 package com.ken.devfb13;
 
+
 import android.util.Log;
 
 /**
@@ -13,7 +14,10 @@ public class Charizard extends Pokemon {
         setTipo(tipo);
     }
 
+
     public void vuela() {
-        Log.d("log", "Charizard esta volando");
+        Log.d("myLog", "Charizard esta volando");
     }
+
+
 }
