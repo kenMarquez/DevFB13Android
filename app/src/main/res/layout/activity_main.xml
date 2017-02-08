@@ -24,9 +24,19 @@
             android:layout_margin="20dp"
             android:background="@color/colorPrimary"
             android:padding="10dp"
+            android:layout_weight="1"
             android:text="Gato 1"
             android:textColor="@android:color/white"
             android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@color/colorPrimary"
+        >
 
 
     </LinearLayout>

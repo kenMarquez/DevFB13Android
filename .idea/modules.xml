@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DevfB13.iml" filepath="$PROJECT_DIR$/DevfB13.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio3pesosadolares/ejercicio3pesosadolares.iml" filepath="$PROJECT_DIR$/ejercicio3pesosadolares/ejercicio3pesosadolares.iml" />
       <module fileurl="file://$PROJECT_DIR$/ejerciciovistas/ejerciciovistas.iml" filepath="$PROJECT_DIR$/ejerciciovistas/ejerciciovistas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lifecicle/lifecicle.iml" filepath="$PROJECT_DIR$/lifecicle/lifecicle.iml" />
       <module fileurl="file://$PROJECT_DIR$/polimorfismo/polimorfismo.iml" filepath="$PROJECT_DIR$/polimorfismo/polimorfismo.iml" />
     </modules>
   </component>
