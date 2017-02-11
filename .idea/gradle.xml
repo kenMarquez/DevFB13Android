@@ -11,7 +11,10 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/ejercicio3pesosadolares" />
             <option value="$PROJECT_DIR$/ejerciciovistas" />
+            <option value="$PROJECT_DIR$/fragments" />
+            <option value="$PROJECT_DIR$/intents" />
             <option value="$PROJECT_DIR$/lifecicle" />
+            <option value="$PROJECT_DIR$/myapplication" />
             <option value="$PROJECT_DIR$/polimorfismo" />
           </set>
         </option>
