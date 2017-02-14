@@ -4,13 +4,18 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DevfB13.iml" filepath="$PROJECT_DIR$/DevfB13.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawables/drawables.iml" filepath="$PROJECT_DIR$/drawables/drawables.iml" />
       <module fileurl="file://$PROJECT_DIR$/ejercicio3pesosadolares/ejercicio3pesosadolares.iml" filepath="$PROJECT_DIR$/ejercicio3pesosadolares/ejercicio3pesosadolares.iml" />
       <module fileurl="file://$PROJECT_DIR$/ejerciciovistas/ejerciciovistas.iml" filepath="$PROJECT_DIR$/ejerciciovistas/ejerciciovistas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fab2/fab2.iml" filepath="$PROJECT_DIR$/fab2/fab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fabexample/fabexample.iml" filepath="$PROJECT_DIR$/fabexample/fabexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragments/fragments.iml" filepath="$PROJECT_DIR$/fragments/fragments.iml" />
       <module fileurl="file://$PROJECT_DIR$/intents/intents.iml" filepath="$PROJECT_DIR$/intents/intents.iml" />
       <module fileurl="file://$PROJECT_DIR$/lifecicle/lifecicle.iml" filepath="$PROJECT_DIR$/lifecicle/lifecicle.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/polimorfismo/polimorfismo.iml" filepath="$PROJECT_DIR$/polimorfismo/polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quizapp/quizapp.iml" filepath="$PROJECT_DIR$/quizapp/quizapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolbarexample/toolbarexample.iml" filepath="$PROJECT_DIR$/toolbarexample/toolbarexample.iml" />
     </modules>
   </component>
 </project>
