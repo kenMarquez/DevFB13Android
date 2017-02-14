@@ -1,5 +1,6 @@
 package com.ken.quizapp;
 
+import android.content.Intent;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -44,7 +45,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             Toast.makeText(this, R.string.start_error_message, Toast.LENGTH_SHORT).show();
 
         } else {
-
+            Intent intent = new Intent(MainActivity.this,PlayActivity.class);
+            startActivity(intent);
         }
 
     }
