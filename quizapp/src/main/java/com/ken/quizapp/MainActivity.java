@@ -10,6 +10,8 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
+
+
     /**
      * Vistas con las que el usuario interectuara
      */
@@ -26,6 +28,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         floatingActionButton = (FloatingActionButton) findViewById(R.id.main_fab_continuar);
         inputUserName = (EditText) findViewById(R.id.main_input_username);
     }
+
+
+
+
 
     @Override
     protected void onStart() {
@@ -45,7 +51,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             Toast.makeText(this, R.string.start_error_message, Toast.LENGTH_SHORT).show();
 
         } else {
-            Intent intent = new Intent(MainActivity.this,PlayActivity.class);
+            Intent intent = new Intent(MainActivity.this, PlayActivity.class);
             startActivity(intent);
         }
 

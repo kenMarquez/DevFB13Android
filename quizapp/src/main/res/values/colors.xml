@@ -11,4 +11,5 @@
     <color name="black">#000</color>
 
     <color name="btn_unselected">#BDBDBD</color>
+    <color name="btn_selected">#CDDC39</color>
 </resources>

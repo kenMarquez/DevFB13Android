@@ -13,6 +13,7 @@
 
 
         <TextView
+            android:id="@+id/question_tv_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
@@ -31,7 +32,7 @@
 
 
             <TextView
-                android:id="@+id/quiz_tv_false"
+                android:id="@+id/question_tv_false"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="@color/btn_unselected"
@@ -44,7 +45,7 @@
 
 
             <TextView
-                android:id="@+id/quiz_tv_true"
+                android:id="@+id/question_tv_true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="30dp"
