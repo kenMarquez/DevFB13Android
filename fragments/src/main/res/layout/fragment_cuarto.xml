@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment4_root_layout"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:background="#bb5566"
+    android:orientation="vertical"
+    tools:context="com.ken.fragments.CuartoFragment">
+
+
+    <TextView
+        android:id="@+id/tv_fragment4"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp"
+        android:text="@string/hello_blank_fragment"
+        android:textColor="#fff"
+        android:textSize="17sp" />
+
+</LinearLayout>

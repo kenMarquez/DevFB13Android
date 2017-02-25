@@ -3,6 +3,9 @@ package com.ken.devfb13;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
+
+import com.ekalips.fancybuttonproj.FancyButton;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -22,6 +25,24 @@ public class MainActivity extends AppCompatActivity {
 
 //        ataquePokemon(charizard);
         ataquePokemon(pikachu);
+
+
+        FancyButton button1 = (FancyButton) findViewById(R.id.btn1);
+
+        View.OnClickListener listener = new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                if (view instanceof  FancyButton)
+                {
+                    if (((FancyButton)view).isExpanded())
+                        ((FancyButton)view).collapse();
+                    else
+                        ((FancyButton)view).expand();
+                }
+
+            }
+        };
+        button1.setOnClickListener(listener);
 
     }
 

@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/intents/intents.iml" filepath="$PROJECT_DIR$/intents/intents.iml" />
       <module fileurl="file://$PROJECT_DIR$/lifecicle/lifecicle.iml" filepath="$PROJECT_DIR$/lifecicle/lifecicle.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistenciadatos/persistenciadatos.iml" filepath="$PROJECT_DIR$/persistenciadatos/persistenciadatos.iml" />
       <module fileurl="file://$PROJECT_DIR$/polimorfismo/polimorfismo.iml" filepath="$PROJECT_DIR$/polimorfismo/polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/quizapp/quizapp.iml" filepath="$PROJECT_DIR$/quizapp/quizapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/toolbarexample/toolbarexample.iml" filepath="$PROJECT_DIR$/toolbarexample/toolbarexample.iml" />

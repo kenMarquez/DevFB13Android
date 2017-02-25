@@ -118,7 +118,9 @@ public class PlayActivity extends AppCompatActivity implements View.OnClickListe
         FragmentManager fragmentManager = getSupportFragmentManager();
 
         fragmentManager.beginTransaction()
+                .setCustomAnimations(R.anim.slide_right_enter, R.anim.slide_left_exit)
                 .replace(R.id.frame_layout, fragment)
+                .addToBackStack("back")
                 .commit();
     }
 
