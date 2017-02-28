@@ -11,11 +11,14 @@
       <module fileurl="file://$PROJECT_DIR$/fabexample/fabexample.iml" filepath="$PROJECT_DIR$/fabexample/fabexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragments/fragments.iml" filepath="$PROJECT_DIR$/fragments/fragments.iml" />
       <module fileurl="file://$PROJECT_DIR$/intents/intents.iml" filepath="$PROJECT_DIR$/intents/intents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsons/jsons.iml" filepath="$PROJECT_DIR$/jsons/jsons.iml" />
       <module fileurl="file://$PROJECT_DIR$/lifecicle/lifecicle.iml" filepath="$PROJECT_DIR$/lifecicle/lifecicle.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/persistenciadatos/persistenciadatos.iml" filepath="$PROJECT_DIR$/persistenciadatos/persistenciadatos.iml" />
       <module fileurl="file://$PROJECT_DIR$/polimorfismo/polimorfismo.iml" filepath="$PROJECT_DIR$/polimorfismo/polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/quizapp/quizapp.iml" filepath="$PROJECT_DIR$/quizapp/quizapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit/retrofit.iml" filepath="$PROJECT_DIR$/retrofit/retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit2/retrofit2.iml" filepath="$PROJECT_DIR$/retrofit2/retrofit2.iml" />
       <module fileurl="file://$PROJECT_DIR$/toolbarexample/toolbarexample.iml" filepath="$PROJECT_DIR$/toolbarexample/toolbarexample.iml" />
     </modules>
   </component>
