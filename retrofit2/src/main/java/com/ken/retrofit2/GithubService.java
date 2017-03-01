@@ -2,7 +2,10 @@ package com.ken.retrofit2;
 
 import okhttp3.ResponseBody;
 import retrofit2.Call;
+import retrofit2.http.Field;
+import retrofit2.http.FormUrlEncoded;
 import retrofit2.http.GET;
+import retrofit2.http.POST;
 import retrofit2.http.Path;
 import retrofit2.http.Query;
 
@@ -18,6 +21,10 @@ public interface GithubService {
 
     @GET("/users/{name}/repos")
     Call<ResponseBody> getUserRepos(@Path("name") String userName);
+
+    @FormUrlEncoded
+    @POST("/users/{name}/repos")
+    Call<ResponseBody> getUserRepos(@Path("name") String userName, @Field("String") String data);
 
     @GET("api/v2/evolution-chain")
     Call<ResponseBody> getEvolutionChain(@Query("limit") String limit, @Query("offset") String offset);
