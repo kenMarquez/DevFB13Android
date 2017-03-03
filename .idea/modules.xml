@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/fab2/fab2.iml" filepath="$PROJECT_DIR$/fab2/fab2.iml" />
       <module fileurl="file://$PROJECT_DIR$/fabexample/fabexample.iml" filepath="$PROJECT_DIR$/fabexample/fabexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragments/fragments.iml" filepath="$PROJECT_DIR$/fragments/fragments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlemaps/googlemaps.iml" filepath="$PROJECT_DIR$/googlemaps/googlemaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/intents/intents.iml" filepath="$PROJECT_DIR$/intents/intents.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsons/jsons.iml" filepath="$PROJECT_DIR$/jsons/jsons.iml" />
       <module fileurl="file://$PROJECT_DIR$/lifecicle/lifecicle.iml" filepath="$PROJECT_DIR$/lifecicle/lifecicle.iml" />
