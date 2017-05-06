@@ -69,13 +69,16 @@ public class MainActivity extends AppCompatActivity implements View.OnLongClickL
 
     public void escogerApp() {
         Intent intent = new Intent(Intent.ACTION_SEND);
-
+        intent.putExtra(Intent.EXTRA_TEXT, "This is my text to send.");
+        intent.setType("text/plain");
         Intent chooser = Intent.createChooser(intent, "Escoge la aplicación que complemente " +
                 "tu acción");
+
 
         if (intent.resolveActivity(getPackageManager()) != null) {
             startActivity(chooser);
         }
+
     }
 
 
