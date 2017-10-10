@@ -17,7 +17,6 @@ public class Main2Activity extends AppCompatActivity implements ContadorFragment
         setContentView(R.layout.activity_main2);
 
         cargarContador1();
-
         cargarContador2();
 
     }

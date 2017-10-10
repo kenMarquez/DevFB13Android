@@ -23,6 +23,8 @@ public class CuartoFragment extends Fragment implements View.OnClickListener {
     private OnFragment4InteractionListener mListener;
     private TextView tvText;
 
+
+
     public static CuartoFragment newInstance(String text) {
         //Creo una intancia de CuartoFragment
         CuartoFragment fragment = new CuartoFragment();
